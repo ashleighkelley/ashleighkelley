@@ -4,5 +4,5 @@
 _Certified IBM Cúram SPM V7.X Application Developer_
 
 - Working daily with: Java EE, Oracle Database
-- Currently exploring: React, NodeJS, PostgreSQL
+- Currently exploring: React, NodeJS, Solidity, dApps
 - General interests: music, guitars, mechanical keyboards, being outdoors, video and board games
