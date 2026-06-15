@@ -1,7 +1,7 @@
 # Hey, I'm Ashleigh
 
 **Full-Stack Java Developer**<br/>
-_Owner of Tidestack Digital Services_
+_Owner of Tidestack Digital Services_<br/>
 _Certified IBM Cúram SPM V8.X Application Developer_
 
 - Working daily with: Java EE, React Oracle Database
